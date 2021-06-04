@@ -1,8 +1,8 @@
 variable "access_key" {
-     default = "AKIARGXNRTOTBAO43JAQ"
+     default = "*******"
 }
 variable "secret_key" {
-     default = "n8s8GYzMBMYN7PO7ffo3EgOvOWDHB9of+2zdSAss"
+     default = "*********"
 }
 variable "region" {
      default = "us-east-1"
